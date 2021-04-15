@@ -1553,7 +1553,7 @@ button,
   input[type="button"].primary,
   button.primary,
   .button.primary {
-    background-color: #f56a6a;
+    background-color: #df2b2b;
     box-shadow: none;
     color: #ffffff !important; }
     input[type="submit"].primary:hover,
